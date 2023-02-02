@@ -1,0 +1,19 @@
+{
+  "name": "grid-engine-ts-example",
+  "version": "1.0.0",
+  "description": "Grid Engine TypeScript Example",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "esbuild main.ts --servedir=. --outfile=main.js --bundle --target=es2016"
+  },
+  "author": "Annoraaq",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "esbuild": "^0.17.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "grid-engine": "^2.25.1",
+    "phaser": "^3.55.2"
+  }
+}
