@@ -9,11 +9,11 @@
   "author": "Annoraaq",
   "license": "Apache-2.0",
   "devDependencies": {
-    "esbuild": "^0.17.0",
-    "typescript": "^4.9.4"
+    "esbuild": "^0.18.14",
+    "typescript": "^5.1.6"
   },
   "dependencies": {
-    "grid-engine": "^2.25.1",
-    "phaser": "^3.55.2"
+    "grid-engine": "^2.32.3",
+    "phaser": "^3.60.0"
   }
 }
